@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mfwebapp</groupId>
-  <artifactId>MyFirstWebApp2</artifactId>
+  <artifactId>MyFirstWebApp3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>MyFirstWebApp2 Maven Webapp</name>
+  <name>MyFirstWebApp3 Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -35,7 +35,7 @@
   </dependencies>
 
   <build>
-    <finalName>MyFirstWebApp2</finalName>
+    <finalName>MyFirstWebApp3</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
